@@ -73,5 +73,5 @@ The certificate demonstrates my understanding of the **fundamental principles an
 
 ## Author
 
-**Siya Khosla**
+**Siya Khosla**  
 **102303742**
