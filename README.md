@@ -1,4 +1,4 @@
-# Deep_Learning_Assignments_102303742
+
 # Deep Learning Lab Assignments
 
 This repository contains the lab assignments completed as part of the **Deep Learning coursework**. The assignments focus on implementing fundamental machine learning and neural network concepts such as perceptrons, regression models, backpropagation, and digit classification.
