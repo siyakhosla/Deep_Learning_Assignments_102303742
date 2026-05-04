@@ -1,7 +1,6 @@
-
 # Deep Learning Lab Assignments
 
-This repository contains the lab assignments completed as part of the **Deep Learning coursework**. The assignments focus on implementing fundamental machine learning and neural network concepts such as perceptrons, regression models, backpropagation, and digit classification.
+This repository contains the lab assignments completed as part of the **Deep Learning coursework**. The assignments focus on implementing fundamental machine learning and neural network concepts such as perceptrons, regression models, backpropagation, and real-world deep learning applications.
 
 ---
 
@@ -55,9 +54,50 @@ Implemented a **digit classification model** using neural networks to recognize 
 
 ---
 
-## Coursera Certification
+## Lab Exercise 6 – Surface Defect Classification
 
-This repository also includes my **Coursera certificate for the course "Fundamentals of Deep Learning"**.
+Implemented a **deep learning model** to classify surface defects using image data, focusing on **Convolutional Neural Networks (CNNs)**.
+
+Dataset:  
+NEU Surface Defect Database
+
+---
+
+## Lab Exercise 7 – Electricity Consumption Forecasting
+
+Built a **time-series forecasting model** to predict electricity consumption using deep learning techniques such as **LSTM/ANN**.
+
+Dataset:  
+Electricity Consumption Forecasting Dataset
+
+---
+
+## Lab Exercise 8 – Image Super Resolution
+
+Developed a **deep learning model** to enhance image quality by increasing resolution using **super-resolution techniques**.
+
+Dataset:  
+Image Super Resolution Dataset
+
+---
+
+## Technologies Used
+
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+- TensorFlow / Keras  
+- PyTorch  
+
+---
+
+## Coursera Certifications
+
+This repository also includes my **Coursera certifications**:
+
+### 1. Fundamentals of Deep Learning
 
 The course covers important deep learning concepts including:
 
@@ -67,7 +107,19 @@ The course covers important deep learning concepts including:
 - Model Training and Optimization
 - Applications of Deep Learning
 
-The certificate demonstrates my understanding of the **fundamental principles and practical implementation of deep learning models**.
+---
+
+### 2. Generative AI: Foundation Models and Platforms
+
+Authorized by IBM (Coursera)  
+Verify: https://coursera.org/verify/PR3J95LXQA17  
+
+---
+
+### 3. Generative AI: Introduction and Applications
+
+Authorized by IBM (Coursera)  
+Verify: https://coursera.org/verify/BSWSYCPA2ME9  
 
 ---
 
